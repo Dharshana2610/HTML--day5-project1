@@ -1,0 +1,2 @@
+document.getElementById('close').addEventListener('click',function(){document.getElementById("image").src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFsjLfGkCZ4xScSLKviiPicMyyonhfKni90g&s"});
+document.getElementById('open').addEventListener('click',function(){document.getElementById("image").src="https://content.presentermedia.com/files/clipart/00017000/17850/door_open_800_wht.jpg"});
